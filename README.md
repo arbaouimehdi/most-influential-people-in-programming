@@ -9,12 +9,16 @@ Dennis Ritchie (September 9, 1941 – c. October 12, 2011), His full name was De
     + [Programmieren in C. ANSI C](http://www.amazon.com/Programmieren-ANSI-Mit-Reference-Manual/dp/3446154973/) 
 
 ### # [Tim Berners-Lee](http://en.wikipedia.org/wiki/Tim_Berners-Lee)
+Timothy John "Tim" Berners-Lee (8 June 1955), known also by his username TimBL. He is an English citizen known for his invention of World Wide Web (WWW).He is the director of World Wide Web Consortium (W3C), the founder of World Wide Web Foundation, and he is a director of the Web Science Research Initiative (WSRI). He is a senior researcher MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). Finally, He is a member of the advisory board of the MIT Center for Collective Intelligence.
+
   + Official Website: [w3.org/People/Berners-Lee/](http://w3.org/People/Berners-Lee/)
   + Twitter: [@timberners_lee](https://twitter.com/timberners_lee)
   + Github: [timbl](https://github.com/timbl)
   + Book: [Weaving the Web](http://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X/)
 
 ### # [Richard Stallman](http://en.wikipedia.org/wiki/Richard_Stallman)
+Richard Matthew Stallman (March 16, 1953). He is a software freedom activist and computer programmer. He is known as the father of GNU Project. He co-founded the League for Programming Freedom. In general, he is an activist who stands against software patents, digital rights management and all kinds of legal and technical systems that limits the users’ freedoms.
+
   + Official Website: [stallman.org](http://stallman.org)
   + Books:
     + [Free as in Freedom (2.0)](http://www.amazon.com/Free-Freedom-2-0-Sam-Williams/dp/0983159211/)
@@ -22,11 +26,15 @@ Dennis Ritchie (September 9, 1941 – c. October 12, 2011), His full name was De
     + [An Introduction to GCC](http://www.amazon.com/An-Introduction-GCC-For-Compilers/dp/0954161793/)
 
 ### # [Linus Torvalds](http://en.wikipedia.org/wiki/Linus_Torvalds)
+Linus Benedict Torvalds (December 28, 1969) is a Finnish American. He was the principal force behind the building of the Linux Kernel, the most popular kernel for operating systems. Not only did he create the revision control system Git, but also, he invented the diving log software Subsurface. In 2012, he and Shinya Yamanaka were honored with Millennium Technology Prize. He also received the 2014 IEEE Computer Society Computer Pioneer Award.
+
   + Twitter: [@Linus__Torvalds](https://twitter.com/Linus__Torvalds)
   + Github: [torvalds](https://github.com/torvalds)
   + Book: [Just for Fun: The Story of an Accidental Revolutionary](http://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732/)
 
 ### # [Brian Kernighan](http://en.wikipedia.org/wiki/Brian_Kernighan)
+Brian Wilson Kernighan (January 1, 1942) is a Canadian computer scientist. He worked at Bell Labs and contributed to the creation of the Unix. He is the coauthor of AWK and AMPL programming languages. He became wildly known when co-authorship the first book on the C programming language. From 2000 till now, he is a Professor at the Computer Science Department of Princeton University.
+
   + Books:
     + [C Programming Language, 2nd Edition](http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/)
     + [The Practice of Programming](http://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X/)
