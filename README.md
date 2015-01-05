@@ -2,6 +2,8 @@ Most Influential People In Programming
 ======================================
   
 ### # [Dennis Ritchie](http://en.wikipedia.org/wiki/Dennis_Ritchie)
+Dennis Ritchie (September 9, 1941 – c. October 12, 2011), His full name was Dennis MacAlistair and known by his username DMR. He was born in Bronxville, New York. He was the creator of C programming language and the Unix operating system with his friend and colleague Ken Thompson. They received the Turing Award in 1983, the Hamming Medal in 1990 and the National Medal of Technology from President Clinton in 1999. He was also the president of Lucent Technologies System Software.
+
   + Books:
     + [The C Programming Language](http://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131101633/)
     + [Programmieren in C. ANSI C](http://www.amazon.com/Programmieren-ANSI-Mit-Reference-Manual/dp/3446154973/) 
